@@ -1,3 +1,3 @@
 # aluraPlus
 
-Projeto utilizando CSS e HTML para treinamento destas tecnologias
+Projeto utilizando CSS e HTML para praticar essas tecnologias
